@@ -1,5 +1,5 @@
 import { encode } from 'iconv-cp932'
-import { createHash } from 'crypto'
+import { createHash } from 'node:crypto'
 
 /**
  * 12 桁トリップを生成する
