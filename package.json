@@ -4,6 +4,7 @@
   "type": "module",
   "devDependencies": {
     "@types/bun": "latest",
+    "tsc": "^2.0.4",
     "unenv": "^1.9.0"
   },
   "peerDependencies": {
