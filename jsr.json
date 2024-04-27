@@ -1,5 +1,5 @@
 {
     "name":"@taisan11/2ch-trip",
-    "version":"0.1.0",
+    "version":"0.2.0",
     "exports": "./dist/index.js"
 }
